@@ -1,1 +1,2 @@
-IS640 Project 1: Neural network
+# is-640-nn
+project 1, backpropagation algorithm
